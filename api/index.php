@@ -1,5 +1,7 @@
 <?php
 
+phpinfo();
+
 $host = $_ENV['PG_HOST'];
 $port = $_ENV['PG_PORT'];
 $db = $_ENV['PG_DB'];
